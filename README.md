@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently working on **ShopMate**, a peer-to-peer shopping app  
+- 🔭 I’m currently working on mobile application for university hostel allocation which intergrates a recommendation system. 
 - 💬 Ask me about **JavaScript, Node.js, Angular, Java, Python**  
 - 🌱 I’m learning more about **AI integration, machine learning, and vector databases**  
 - 🛠️ I build projects like **AgroTrack, MatchMinds, Smart Scheduling System, and IoT Healthcare Apps**  
