@@ -1,7 +1,7 @@
 <!-- Profile README for sara98-bit -->
 
 <h1 align="center">Hi 👋, I'm Sarah</h1>
-<h3 align="center">🌱 A passionate software developer and tech enthusiast from Kenya</h3>
+<h3 align="center">🌱 A passionate full-stack developer and soon-to-be project manager/QA/h3>
 
 ---
 
@@ -30,42 +30,12 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sara98-bit&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sara98-bit&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sara98-bit&theme=monokai&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔍 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara98-bit&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Connect with me
 
-- 
-
+- tel: 07572336358
 - Portfolio: Coming soon  
 - Email: thuosarah81@gmail.com
 
----
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sara98-bit)
 
